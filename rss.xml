@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[testdriveviets]]></title>
         <description><![CDATA[testdriveviets]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testdrviets/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 03:58:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 03:58:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testdrviets/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30ab1a57-4e60-42ca-8bdf-a1b3abde0d81.jpg">]]></description>
+            <link>https://thegrid.ai/testdrviets/51e951f7-8066-4f8d-b0b4-2dd472abc284/index.html</link>
+            <guid isPermaLink="false">51e951f7-8066-4f8d-b0b4-2dd472abc284</guid>
+            <pubDate>Thu, 18 Feb 2016 03:56:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>now tis the time for all good men to come to the aid of their country</p>]]></description>
-            <link>undefinedf40de070-b20d-43b7-a523-8a688ca183f9/index.html</link>
+            <link>https://thegrid.ai/testdrviets/f40de070-b20d-43b7-a523-8a688ca183f9/index.html</link>
             <guid isPermaLink="false">f40de070-b20d-43b7-a523-8a688ca183f9</guid>
             <pubDate>Thu, 18 Feb 2016 03:56:58 GMT</pubDate>
         </item>
