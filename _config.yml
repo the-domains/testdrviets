@@ -1,4 +1,4 @@
-name: testdrviets
+name: testdriveviets
 favicon: null
 layout_spectrum: 0.9920523490291089
 typography_spectrum: 0.8521992256864905
@@ -23,7 +23,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.3099413795862347
-  lightness: 0.7077162161003798
-  saturation: 0.9366960227489471
-  rhythmicContrast: 0.3571488866582513
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
